@@ -5,6 +5,7 @@ My project solutions for [automate the boring stuff with python](https://automat
 - Chapter 3 - Functions
   - [The Collatz Sequence](https://github.com/erikstreller/books/tree/main/automate-the-boring-stuff-with-python/the_collatz_sequence)
 - Chapter 4 - List
+  - [Comma Code](https://github.com/erikstreller/books/tree/main/automate-the-boring-stuff-with-python/comma_code)
   - [Character Picture Grid](https://github.com/erikstreller/books/tree/main/automate-the-boring-stuff-with-python/character_picture_grid)
 - Chapter 5 - Dictionaries and Structuring Data
   - [Fantasy Game Inventory](https://github.com/erikstreller/books/tree/main/automate-the-boring-stuff-with-python/fantasy_game_inventory)
