@@ -20,3 +20,8 @@ Thumbs.db
 # Ignore the build directory
 /dist
 /dist-ssr
+
+# Ignore shelve database files on windows
+*.bak
+*.dat
+*.dir
