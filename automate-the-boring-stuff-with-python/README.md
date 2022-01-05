@@ -15,6 +15,7 @@ My project solutions for [automate the boring stuff with python](https://automat
   - [Strong Password Detection](https://github.com/erikstreller/books/tree/main/automate-the-boring-stuff-with-python/strong_password_detection)
   - [Regex Version Of Strip](https://github.com/erikstreller/books/tree/main/automate-the-boring-stuff-with-python/regex_strip)
 - Chapter 8 - Reading and Writing Files
+  - [Multiclipboard (extended)](https://github.com/erikstreller/books/tree/main/automate-the-boring-stuff-with-python/multiclipboard)
 - Chapter 9 - Organizing Files
 - Chapter 10 - Debugging
 - Chapter 11 - Web Scraping
