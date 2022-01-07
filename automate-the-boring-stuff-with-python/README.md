@@ -17,6 +17,7 @@ My project solutions for [automate the boring stuff with python](https://automat
 - Chapter 8 - Reading and Writing Files
   - [Multiclipboard (extended)](https://github.com/erikstreller/books/tree/main/automate-the-boring-stuff-with-python/multiclipboard)
   - [Mad Libs](https://github.com/erikstreller/books/tree/main/automate-the-boring-stuff-with-python/mad_libs)
+  - [Regex Search](https://github.com/erikstreller/books/tree/main/automate-the-boring-stuff-with-python/regex_search)
 - Chapter 9 - Organizing Files
 - Chapter 10 - Debugging
 - Chapter 11 - Web Scraping

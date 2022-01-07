@@ -1,0 +1,1 @@
+This is %s some text !* for a #search test.
