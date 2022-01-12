@@ -20,6 +20,7 @@ My project solutions for [automate the boring stuff with python](https://automat
   - [Regex Search](https://github.com/erikstreller/books/tree/main/automate-the-boring-stuff-with-python/regex_search)
 - Chapter 9 - Organizing Files
   - [Selective Copy](https://github.com/erikstreller/books/tree/main/automate-the-boring-stuff-with-python/selective_copy)
+  - [Find Unneeded Files](https://github.com/erikstreller/books/tree/main/automate-the-boring-stuff-with-python/find_unneeded_files)
 - Chapter 10 - Debugging
 - Chapter 11 - Web Scraping
 - Chapter 12 - Working with Excel Spreadsheets
