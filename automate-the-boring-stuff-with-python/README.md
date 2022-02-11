@@ -26,6 +26,7 @@ My project solutions for [automate the boring stuff with python](https://automat
   - [Debugging Coin Toss](https://github.com/erikstreller/books/tree/main/automate-the-boring-stuff-with-python/coin_toss)
 - Chapter 11 - Web Scraping
   - [Send Email](https://github.com/erikstreller/books/tree/main/automate-the-boring-stuff-with-python/send_email)
+  - [Image Site Downloader](https://github.com/erikstreller/books/tree/main/automate-the-boring-stuff-with-python/image_site_downloader)
 - Chapter 12 - Working with Excel Spreadsheets
 - Chapter 13 - Working with PDF and Word Documents
 - Chapter 14 - Working with CSV Files and JSON Data
