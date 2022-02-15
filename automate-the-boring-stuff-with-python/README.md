@@ -30,6 +30,7 @@ My project solutions for [automate the boring stuff with python](https://automat
   - [Play 2048](https://github.com/erikstreller/books/tree/main/automate-the-boring-stuff-with-python/play_2048)
   - [Link Verification](https://github.com/erikstreller/books/tree/main/automate-the-boring-stuff-with-python/link_verification)
 - Chapter 12 - Working with Excel Spreadsheets
+  - [Multiplication Table Maker](https://github.com/erikstreller/books/tree/main/automate-the-boring-stuff-with-python/multiplication_table_maker)
 - Chapter 13 - Working with PDF and Word Documents
 - Chapter 14 - Working with CSV Files and JSON Data
 - Chapter 15 - Keeping Time, Scheduling Tasks and Launching Programs
