@@ -33,6 +33,7 @@ Favorite Chapter: `Web Scraping`
   - [Link Verification](https://github.com/erikstreller/books/tree/main/automate-the-boring-stuff-with-python/link_verification)
 - Chapter 12 - Working with Excel Spreadsheets
   - [Multiplication Table Maker](https://github.com/erikstreller/books/tree/main/automate-the-boring-stuff-with-python/multiplication_table_maker)
+  - [Blank Row Inserter](https://github.com/erikstreller/books/tree/main/automate-the-boring-stuff-with-python/blank_row_inserter)
 - Chapter 13 - Working with PDF and Word Documents
 - Chapter 14 - Working with CSV Files and JSON Data
 - Chapter 15 - Keeping Time, Scheduling Tasks and Launching Programs
