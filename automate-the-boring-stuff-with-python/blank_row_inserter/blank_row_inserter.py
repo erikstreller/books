@@ -7,7 +7,7 @@ import openpyxl
 
 def insert_blank_rows(file_name: str, n: int, m: int) -> None:
     directory = Path(__file__).parent.resolve()
-    wb_path = Path(__file__).parent.resolve() / file_name
+    wb_path = directory / file_name
 
     wb = openpyxl.load_workbook(str(wb_path))
     sheet = wb.active
