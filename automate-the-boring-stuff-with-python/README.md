@@ -36,6 +36,7 @@ Favorite Chapter: `Web Scraping`
   - [Blank Row Inserter](https://github.com/erikstreller/books/tree/main/automate-the-boring-stuff-with-python/blank_row_inserter)
   - [Spreadsheet Cell Inverter](https://github.com/erikstreller/books/tree/main/automate-the-boring-stuff-with-python/spreadsheet_cell_inverter)
   - [Text Files to Spreadsheet](https://github.com/erikstreller/books/tree/main/automate-the-boring-stuff-with-python/text_files_to_spreadsheet)
+  - [Spreadsheet to Text Files](https://github.com/erikstreller/books/tree/main/automate-the-boring-stuff-with-python/spreadsheet_to_text_files)
 - Chapter 13 - Working with PDF and Word Documents
 - Chapter 14 - Working with CSV Files and JSON Data
 - Chapter 15 - Keeping Time, Scheduling Tasks and Launching Programs
