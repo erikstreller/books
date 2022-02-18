@@ -46,9 +46,39 @@ def encrypt_pdf(filename: str, password: str) -> str | None:
         print(f"{filename} not found.")
 
 
+def decrypt_pdf(filename: str, password: str, name_count: int) -> str | None:
+    if is_encrypted(filename):
+        pdf_reader = PdfFileReader(filename, "rb")
+        pdf_writer = PdfFileWriter()
+
+        try:
+            pdf_reader.decrypt(password)
+            pdf_reader.getPage(0)
+
+            for page_number in range(pdf_reader.numPages):
+                pdf_writer.addPage(pdf_reader.getPage(page_number))
+
+            # get path from current folder and declare decrypted name
+            path = Path(filename).parents[0] / f"pdf_{name_count}.pdf"
+
+            # open, write and close file
+            result_pdf = open(path, "wb")
+            pdf_writer.write(result_pdf)
+            result_pdf.close()
+        except:
+            print(f"Wrong password for {filename}.")
+
+
 if __name__ == "__main__":
     password = "swordfish"
     path = Path(__file__).parent.resolve()
 
+    # encrypt and delete original pdf
     for pdf in path.rglob(f"*.pdf"):
         encrypt_pdf(str(pdf), password)
+
+    # decrypt pdf
+    name_count = 1
+    for pdf in path.rglob(f"*.pdf"):
+        decrypt_pdf(str(pdf), password, name_count)
+        name_count += 1
