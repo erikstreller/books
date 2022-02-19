@@ -40,6 +40,7 @@ Favorite Chapter: `Web Scraping`
 - Chapter 13 - Working with PDF and Word Documents
   - [PDF Paranoia](https://github.com/erikstreller/books/tree/main/automate-the-boring-stuff-with-python/pdf_paranoia)
   - [Custom Invitation Cards](https://github.com/erikstreller/books/tree/main/automate-the-boring-stuff-with-python/custom_invitations)
+  - [Brute-Force PDF Password Breaker](https://github.com/erikstreller/books/tree/main/automate-the-boring-stuff-with-python/pdf_password_breaker)
 - Chapter 14 - Working with CSV Files and JSON Data
 - Chapter 15 - Keeping Time, Scheduling Tasks and Launching Programs
 - Chapter 16 - Sending Email and Text Messages
